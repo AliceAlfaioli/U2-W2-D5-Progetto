@@ -61,9 +61,10 @@ h1 {
 }
 
 .images {
-  display: inline-flex;
   object-fit: cover;
   padding: 20rem;
+  height: 100%;
+  width: 100%;
 }
 
 #img {
